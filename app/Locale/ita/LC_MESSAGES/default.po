@@ -1,0 +1,1751 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-02-19 12:12+0100\n"
+"PO-Revision-Date: 2015-02-19 16:52+0100\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: /Controller/AppController.php:60
+msgid "You are not authorized to access that location."
+msgstr "Non sei autorizzato ad accedere a tale posizione."
+
+#: /Controller/AreasController.php:40;72;97
+msgid "Invalid area"
+msgstr "Area non valida"
+
+#: /Controller/AreasController.php:55;76
+msgid "The area has been saved."
+msgstr "L&#39;Area è stata salvata."
+
+#: /Controller/AreasController.php:58;79
+msgid "The area could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare l&#39;Area. Per favore, provare di nuovo."
+
+#: /Controller/AreasController.php:101
+msgid "The area has been deleted."
+msgstr "L&#39;Area è stata eliminata."
+
+#: /Controller/AreasController.php:103
+msgid "The area could not be deleted. Please, try again."
+msgstr "Non è stato possibile eliminare l&#39;Area. Per favore, provare di nuovo."
+
+#: /Controller/BiomassTypesController.php:40;72;97
+msgid "Invalid biomass type"
+msgstr "Tipo di Biomassa non valido"
+
+#: /Controller/BiomassTypesController.php:55;76
+msgid "The biomass type has been saved."
+msgstr "Il Tipo di Biomassa è stato salvato."
+
+#: /Controller/BiomassTypesController.php:58;79
+msgid "The biomass type could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Tipo di Biomassa. Per favore, provare di nuovo."
+
+#: /Controller/BiomassTypesController.php:101
+msgid "The biomass type has been deleted."
+msgstr "Il Tipo di Biomassa è stato eliminato."
+
+#: /Controller/BiomassTypesController.php:103
+msgid "The biomass type could not be deleted. Please, try again."
+msgstr "Il Tipo di Biomassa non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/ChippersController.php:40;72;97
+msgid "Invalid chipper"
+msgstr "Cippatrice non valida"
+
+#: /Controller/ChippersController.php:55;76
+msgid "The chipper has been saved."
+msgstr "La Cippatrice è stata salvata"
+
+#: /Controller/ChippersController.php:58;79
+msgid "The chipper could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Cippatrice. Per favore, provare di nuovo."
+
+#: /Controller/ChippersController.php:101
+msgid "The chipper has been deleted."
+msgstr "La Cippatrice è stata eliminata"
+
+#: /Controller/ChippersController.php:103
+msgid "The chipper could not be deleted. Please, try again."
+msgstr "La Cippatrice non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/Crate1sController.php:40;72;97
+msgid "Invalid crate1"
+msgstr "Cassa (1) non valida"
+
+#: /Controller/Crate1sController.php:55;76
+msgid "The crate (1) has been saved."
+msgstr "La Cassa (1) è stata salvata."
+
+#: /Controller/Crate1sController.php:58;79
+msgid "The crate (1) could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Cassa (1). Per favore, provare di nuovo."
+
+#: /Controller/Crate1sController.php:101
+msgid "The crate (1) has been deleted."
+msgstr "La Cassa (1) è stata eliminata"
+
+#: /Controller/Crate1sController.php:103
+msgid "The crate (1) could not be deleted. Please, try again."
+msgstr "La Cassa (1) non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/Crate2sController.php:40;72;97
+msgid "Invalid crate2"
+msgstr "Cassa (2) non valida"
+
+#: /Controller/Crate2sController.php:55;76
+msgid "The crate (2) has been saved."
+msgstr "La Cassa (2) è stata salvata."
+
+#: /Controller/Crate2sController.php:58;79
+msgid "The crate (2) could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Cassa (2). Per favore, provare di nuovo."
+
+#: /Controller/Crate2sController.php:101
+msgid "The crate (2) has been deleted."
+msgstr "La Cassa (2) è stata eliminata"
+
+#: /Controller/Crate2sController.php:103
+msgid "The crate (2) could not be deleted. Please, try again."
+msgstr "La Cassa (2) non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/DestinationStacksController.php:40;72;97
+msgid "Invalid destination stack"
+msgstr "Catasta di Destinazione non valida"
+
+#: /Controller/DestinationStacksController.php:55;76
+msgid "The destination stack has been saved."
+msgstr "La Catasta di Destinazione è stata salvata."
+
+#: /Controller/DestinationStacksController.php:58;79
+msgid "The destination stack could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Catasta di Destinazione. Per favore, provare di nuovo."
+
+#: /Controller/DestinationStacksController.php:101
+msgid "The destination stack has been deleted."
+msgstr "La Catasta di Destinazione è stata eliminata"
+
+#: /Controller/DestinationStacksController.php:103
+msgid "The destination stack could not be deleted. Please, try again."
+msgstr "La Catasta di Destinazione non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/ForestStack1sController.php:40;72;97
+msgid "Invalid forest stack1"
+msgstr "Catasta Boschiva (1) non valida"
+
+#: /Controller/ForestStack1sController.php:55;76
+msgid "The forest stack (1) has been saved."
+msgstr "La Catasta Boschiva (1) è stata salvata."
+
+#: /Controller/ForestStack1sController.php:58;79
+msgid "The forest stack (1) could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Catasta Boschiva (1). Per favore, provare di nuovo."
+
+#: /Controller/ForestStack1sController.php:101
+msgid "The forest stack (1) has been deleted."
+msgstr "La Catasta Boschiva (1) è stata eliminata"
+
+#: /Controller/ForestStack1sController.php:103
+msgid "The forest stack (1) could not be deleted. Please, try again."
+msgstr "La Catasta Boschiva (1) non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/ForestStack2sController.php:40;72;97
+msgid "Invalid forest stack2"
+msgstr "Catasta Boschiva (2) non valida"
+
+#: /Controller/ForestStack2sController.php:55;76
+msgid "The forest stack (2) has been saved."
+msgstr "La Catasta Boschiva (2) è stata salvata."
+
+#: /Controller/ForestStack2sController.php:58;79
+msgid "The forest stack (2) could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Catasta Boschiva (2). Per favore, provare di nuovo."
+
+#: /Controller/ForestStack2sController.php:101
+msgid "The forest stack (2) has been deleted."
+msgstr "La Catasta Boschiva (2) è stata eliminata"
+
+#: /Controller/ForestStack2sController.php:103
+msgid "The forest stack (2) could not be deleted. Please, try again."
+msgstr "La Catasta Boschiva (2) non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/GroupsController.php:42;74;99
+msgid "Invalid group"
+msgstr "Gruppo non valido"
+
+#: /Controller/GroupsController.php:57;78
+msgid "The group has been saved."
+msgstr "Il Gruppo è stato salvato."
+
+#: /Controller/GroupsController.php:60;81
+msgid "The group could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Gruppo. Per favore, provare di nuovo."
+
+#: /Controller/GroupsController.php:103
+msgid "The group has been deleted."
+msgstr "Il Gruppo è stato eliminato"
+
+#: /Controller/GroupsController.php:105
+msgid "The group could not be deleted. Please, try again."
+msgstr "Il Gruppo non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/LandParcelsController.php:40;74;101
+msgid "Invalid land parcel"
+msgstr "Particella Catastale non valida"
+
+#: /Controller/LandParcelsController.php:55;78
+msgid "The land parcel has been saved."
+msgstr "La Particella Catastale è stata salvata"
+
+#: /Controller/LandParcelsController.php:58;81
+msgid "The land parcel could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Particella Catastale. Per favore, provare di nuovo."
+
+#: /Controller/LandParcelsController.php:105
+msgid "The land parcel has been deleted."
+msgstr "La Particella Catastale è stata eliminata"
+
+#: /Controller/LandParcelsController.php:107
+msgid "The land parcel could not be deleted. Please, try again."
+msgstr "La particella Catastale non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/LotsController.php:40;74;101
+msgid "Invalid lot"
+msgstr "Lotto non valido"
+
+#: /Controller/LotsController.php:55;78
+msgid "The lot has been saved."
+msgstr "Il Lotto è stato salvato."
+
+#: /Controller/LotsController.php:58;81
+msgid "The lot could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Lotto. Per favore, provare di nuovo."
+
+#: /Controller/LotsController.php:105
+msgid "The lot has been deleted."
+msgstr "Il Lotto è stato eliminato."
+
+#: /Controller/LotsController.php:107
+msgid "The lot could not be deleted. Please, try again."
+msgstr "Il Lotto non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/MaterialsController.php:40;74;101
+msgid "Invalid material"
+msgstr "Materiale non valido"
+
+#: /Controller/MaterialsController.php:55;78
+msgid "The material has been saved."
+msgstr "Il Materiale è stato salvato."
+
+#: /Controller/MaterialsController.php:58;81
+msgid "The material could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Materiale. Per favore, provare di nuovo."
+
+#: /Controller/MaterialsController.php:105
+msgid "The material has been deleted."
+msgstr "Il Materiale è stato eliminato."
+
+#: /Controller/MaterialsController.php:107
+msgid "The material could not be deleted. Please, try again."
+msgstr "Il Materiale non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/PlacesController.php:40;75;103
+msgid "Invalid place"
+msgstr "Toponimo non valido"
+
+#: /Controller/PlacesController.php:55;79
+msgid "The place has been saved."
+msgstr "Il Toponimo è stato salvato."
+
+#: /Controller/PlacesController.php:58;82
+msgid "The place could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Tipo di Biomassa. Per favore, provare di nuovo."
+
+#: /Controller/PlacesController.php:107
+msgid "The place has been deleted."
+msgstr "Il Toponimo è stato eliminato."
+
+#: /Controller/PlacesController.php:109
+msgid "The place could not be deleted. Please, try again."
+msgstr "Non è stato possibile eliminare il Toponimo. Per favore, provare di nuovo."
+
+#: /Controller/PlantsController.php:37;75;106
+msgid "Invalid plant"
+msgstr "Toponimo non valido"
+
+#: /Controller/PlantsController.php:52;79
+msgid "The plant has been saved."
+msgstr "Il Toponimo è stato salvato."
+
+#: /Controller/PlantsController.php:55;82
+msgid "The plant could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Toponimo. Per favore, provare di nuovo."
+
+#: /Controller/PlantsController.php:110
+msgid "The plant has been deleted."
+msgstr "Il Toponimo è stato eliminato."
+
+#: /Controller/PlantsController.php:112
+msgid "The plant could not be deleted. Please, try again."
+msgstr "Il Toponimo non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/SheetsController.php:40;74;101
+msgid "Invalid sheet"
+msgstr "Foglio Catastale non valido"
+
+#: /Controller/SheetsController.php:55;78
+msgid "The sheet has been saved."
+msgstr "Il Foglio Catastale è stato salvato."
+
+#: /Controller/SheetsController.php:58;81
+msgid "The sheet could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Foglio Catastale. Per favore, provare di nuovo."
+
+#: /Controller/SheetsController.php:105
+msgid "The sheet has been deleted."
+msgstr "Il Foglio Catastale è stato eliminato."
+
+#: /Controller/SheetsController.php:107
+msgid "The sheet could not be deleted. Please, try again."
+msgstr "Il Foglio Catastale non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/SourcesController.php:40;72;97
+msgid "Invalid source"
+msgstr "Sorgente non valida"
+
+#: /Controller/SourcesController.php:55;76
+msgid "The source has been saved."
+msgstr "La Sorgente è stata salvata."
+
+#: /Controller/SourcesController.php:58;79
+msgid "The source could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Sorgente. Per favore, provare di nuovo."
+
+#: /Controller/SourcesController.php:101
+msgid "The source has been deleted."
+msgstr "La Sorgente è stata eliminata"
+
+#: /Controller/SourcesController.php:103
+msgid "The source could not be deleted. Please, try again."
+msgstr "Il Fornitore non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/SuppliersController.php:40;72;97
+msgid "Invalid supplier"
+msgstr "Fornitore non valido"
+
+#: /Controller/SuppliersController.php:55;76
+msgid "The supplier has been saved."
+msgstr "Il Fornitore è stato salvato."
+
+#: /Controller/SuppliersController.php:58;79
+msgid "The supplier could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Fornitore. Per favore, provare di nuovo."
+
+#: /Controller/SuppliersController.php:101
+msgid "The supplier has been deleted."
+msgstr "Il Fornitore è stato eliminato."
+
+#: /Controller/SuppliersController.php:103
+msgid "The supplier could not be deleted. Please, try again."
+msgstr "Il Fornitore non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/TownsController.php:40;74;101
+msgid "Invalid town"
+msgstr "Comune non valido"
+
+#: /Controller/TownsController.php:55;78
+msgid "The town has been saved."
+msgstr "Il Comune è stata salvato."
+
+#: /Controller/TownsController.php:58;81
+msgid "The town could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Comune. Per favore, provare di nuovo."
+
+#: /Controller/TownsController.php:105
+msgid "The town has been deleted."
+msgstr "Il Comune è stato eliminata."
+
+#: /Controller/TownsController.php:107
+msgid "The town could not be deleted. Please, try again."
+msgstr "Non è stato possibile eliminare il Comune. Per favore, provare di nuovo."
+
+#: /Controller/TractorsController.php:40;74;101
+msgid "Invalid tractor"
+msgstr "Motrice non valida"
+
+#: /Controller/TractorsController.php:55;78
+msgid "The tractor has been saved."
+msgstr "La Motrice è stata salvata"
+
+#: /Controller/TractorsController.php:58;81
+msgid "The tractor could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Motrice. Per favore, provare di nuovo."
+
+#: /Controller/TractorsController.php:105
+msgid "The tractor has been deleted."
+msgstr "La Motrice è stata eliminato"
+
+#: /Controller/TractorsController.php:107
+msgid "The tractor could not be deleted. Please, try again."
+msgstr "La Motrice non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/TrailersController.php:40;74;101
+msgid "Invalid trailer"
+msgstr "Rimorchio non valido"
+
+#: /Controller/TrailersController.php:55;78
+msgid "The trailer has been saved."
+msgstr "Il Rimorchio è stato salvato."
+
+#: /Controller/TrailersController.php:58;81
+msgid "The trailer could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il Rimorchio. Per favore, provare di nuovo."
+
+#: /Controller/TrailersController.php:105
+msgid "The trailer has been deleted."
+msgstr "Il Rimorchio è stato eliminato."
+
+#: /Controller/TrailersController.php:107
+msgid "The trailer could not be deleted. Please, try again."
+msgstr "Il Rimorchio non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/UsersController.php:29
+msgid "Your username or password was incorrect."
+msgstr "Nome Utente o Password non corretti"
+
+#: /Controller/UsersController.php:33
+msgid "You are logged in!"
+msgstr "Sei connesso!"
+
+#: /Controller/UsersController.php:62;96;124
+msgid "Invalid user"
+msgstr "Utente non valido"
+
+#: /Controller/UsersController.php:77;100
+msgid "The user has been saved."
+msgstr "L'Utente è stato salvato."
+
+#: /Controller/UsersController.php:80;103
+msgid "The user could not be saved. Please, try again."
+msgstr "L'Utente non può essere salvato. Per favore, provare di nuovo."
+
+#: /Controller/UsersController.php:128
+msgid "The user has been deleted."
+msgstr "L'Utente è stato eliminato."
+
+#: /Controller/UsersController.php:130
+msgid "The user could not be deleted. Please, try again."
+msgstr "I'Utente non può essere eliminato. Per favore, provare di nuovo."
+
+#: /Controller/WeightsController.php:44;98;143
+msgid "Invalid weight"
+msgstr "Pesata non valida"
+
+#: /Controller/WeightsController.php:59;102
+msgid "The weight has been saved."
+msgstr "La Pesata è stata salvata."
+
+#: /Controller/WeightsController.php:62;105
+msgid "The weight could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Pesata. Per favore, provare di nuovo."
+
+#: /Controller/WeightsController.php:147
+msgid "The weight has been deleted."
+msgstr "La Pesata è stata eliminata"
+
+#: /Controller/WeightsController.php:149
+msgid "The weight could not be deleted. Please, try again."
+msgstr "La Pesata non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Controller/WeightsMaterialsController.php:37;72;100
+msgid "Invalid weights material"
+msgstr ""
+
+#: /Controller/WeightsMaterialsController.php:52;76
+msgid "The weights material has been saved."
+msgstr "La Pesata è stata salvata."
+
+#: /Controller/WeightsMaterialsController.php:55;79
+msgid "The weights material could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare la Pesata. Per favore, provare di nuovo."
+
+#: /Controller/WeightsMaterialsController.php:104
+msgid "The weights material has been deleted."
+msgstr "La Pesata è stata eliminata."
+
+#: /Controller/WeightsMaterialsController.php:106
+msgid "The weights material could not be deleted. Please, try again."
+msgstr "La Pesata non può essere eliminata. Per favore, provare di nuovo."
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:80
+msgid "Plugin to process"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:83
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:88
+msgid "Add new ACOs for new controllers and actions. Does not remove nodes from the ACO table."
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:93
+msgid "Perform a full sync on the ACO table.Will create new ACOs or missing controllers and actions.Will also remove orphaned entries that no longer have a matching controller/action"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:97
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:102
+msgid "The type of tree to verify"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:108
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: /Plugin/AclExtras/Console/Command/AclExtrasShell.php:113
+msgid "The type of tree to recover"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:136
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:315
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:333
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: /Plugin/AclExtras/Lib/AclExtras.php:335
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: /View/Areas/add.ctp:4
+msgid "Add Area"
+msgstr "Aggiungi Area"
+
+#: /View/Areas/add.ctp:9 /View/Areas/edit.ctp:10 /View/BiomassTypes/add.ctp:9
+#: /View/BiomassTypes/edit.ctp:10 /View/Chippers/add.ctp:9
+#: /View/Chippers/edit.ctp:10 /View/Crate1s/add.ctp:9
+#: /View/Crate1s/edit.ctp:10 /View/Crate2s/add.ctp:9 /View/Crate2s/edit.ctp:10
+#: /View/DestinationStacks/add.ctp:9 /View/DestinationStacks/edit.ctp:10
+#: /View/ForestStack1s/add.ctp:9 /View/ForestStack1s/edit.ctp:10
+#: /View/ForestStack2s/add.ctp:9 /View/ForestStack2s/edit.ctp:10
+#: /View/Groups/add.ctp:9 /View/Groups/edit.ctp:10
+#: /View/LandParcels/add.ctp:10 /View/LandParcels/edit.ctp:11
+#: /View/Lots/add.ctp:10 /View/Lots/edit.ctp:11 /View/Materials/add.ctp:9
+#: /View/Materials/edit.ctp:10 /View/Places/add.ctp:10
+#: /View/Places/edit.ctp:11 /View/Sheets/add.ctp:10 /View/Sheets/edit.ctp:11
+#: /View/Sources/add.ctp:9 /View/Sources/edit.ctp:10
+#: /View/Suppliers/add.ctp:14 /View/Suppliers/edit.ctp:15
+#: /View/Towns/add.ctp:9 /View/Towns/edit.ctp:10 /View/TownsPlaces/add.ctp:10
+#: /View/TownsPlaces/edit.ctp:11 /View/Tractors/add.ctp:11
+#: /View/Tractors/edit.ctp:11 /View/Trailers/add.ctp:10
+#: /View/Trailers/edit.ctp:11 /View/Users/add.ctp:21 /View/Users/edit.ctp:20
+#: /View/Weights/add.ctp:70 /View/Weights/edit.ctp:99
+#: /View/WeightsMaterials/add.ctp:10 /View/WeightsMaterials/edit.ctp:11
+msgid "Submit"
+msgstr "Salva"
+
+#: /View/Areas/add.ctp:12 /View/Areas/edit.ctp:13 /View/Areas/index.ctp:8;40
+#: /View/Areas/view.ctp:17 /View/BiomassTypes/add.ctp:12
+#: /View/BiomassTypes/edit.ctp:13 /View/BiomassTypes/index.ctp:8;40
+#: /View/BiomassTypes/view.ctp:17 /View/Chippers/add.ctp:12
+#: /View/Chippers/edit.ctp:13 /View/Chippers/index.ctp:8;40
+#: /View/Chippers/view.ctp:17 /View/Crate1s/add.ctp:12
+#: /View/Crate1s/edit.ctp:13 /View/Crate1s/index.ctp:8;40
+#: /View/Crate1s/view.ctp:17 /View/Crate2s/add.ctp:12
+#: /View/Crate2s/edit.ctp:13 /View/Crate2s/index.ctp:8;40
+#: /View/Crate2s/view.ctp:17 /View/DestinationStacks/add.ctp:12
+#: /View/DestinationStacks/edit.ctp:13 /View/DestinationStacks/index.ctp:8;40
+#: /View/DestinationStacks/view.ctp:17 /View/ForestStack1s/add.ctp:12
+#: /View/ForestStack1s/edit.ctp:13 /View/ForestStack1s/index.ctp:8;40
+#: /View/ForestStack1s/view.ctp:17 /View/ForestStack2s/add.ctp:12
+#: /View/ForestStack2s/edit.ctp:13 /View/ForestStack2s/index.ctp:8;40
+#: /View/ForestStack2s/view.ctp:17 /View/Groups/add.ctp:12
+#: /View/Groups/edit.ctp:13 /View/Groups/index.ctp:10;44
+#: /View/Groups/view.ctp:27 /View/LandParcels/add.ctp:13
+#: /View/LandParcels/edit.ctp:14 /View/LandParcels/index.ctp:9;44
+#: /View/LandParcels/view.ctp:22 /View/Lots/add.ctp:13 /View/Lots/edit.ctp:14
+#: /View/Lots/index.ctp:9;44 /View/Lots/view.ctp:22 /View/Materials/add.ctp:12
+#: /View/Materials/edit.ctp:13 /View/Materials/index.ctp:8;40
+#: /View/Materials/view.ctp:17 /View/Pages/home.ctp:2 /View/Places/add.ctp:13
+#: /View/Places/edit.ctp:14 /View/Places/index.ctp:9;44
+#: /View/Places/view.ctp:22 /View/Sheets/add.ctp:13 /View/Sheets/edit.ctp:14
+#: /View/Sheets/index.ctp:9;44 /View/Sheets/view.ctp:22;40
+#: /View/Sources/add.ctp:12 /View/Sources/edit.ctp:13
+#: /View/Sources/index.ctp:8;40 /View/Sources/view.ctp:17
+#: /View/Suppliers/add.ctp:17 /View/Suppliers/edit.ctp:18
+#: /View/Suppliers/index.ctp:13;50 /View/Suppliers/view.ctp:42;58;89
+#: /View/Towns/add.ctp:12 /View/Towns/edit.ctp:13 /View/Towns/index.ctp:8;40
+#: /View/Towns/view.ctp:17;36;67;98 /View/TownsPlaces/add.ctp:13
+#: /View/TownsPlaces/edit.ctp:14 /View/TownsPlaces/index.ctp:9;44
+#: /View/TownsPlaces/view.ctp:22 /View/Tractors/add.ctp:14
+#: /View/Tractors/edit.ctp:14 /View/Tractors/index.ctp:9;44
+#: /View/Tractors/view.ctp:22 /View/Trailers/add.ctp:13
+#: /View/Trailers/edit.ctp:14 /View/Trailers/index.ctp:9;44
+#: /View/Trailers/view.ctp:22 /View/Users/add.ctp:24 /View/Users/edit.ctp:23
+#: /View/Users/index.ctp:18;62 /View/Users/view.ctp:78
+#: /View/Weights/add.ctp:73 /View/Weights/edit.ctp:102
+#: /View/Weights/index.ctp:45;159 /View/Weights/view.ctp:205
+#: /View/WeightsMaterials/add.ctp:13 /View/WeightsMaterials/edit.ctp:14
+#: /View/WeightsMaterials/index.ctp:9;46 /View/WeightsMaterials/view.ctp:22
+msgid "Actions"
+msgstr "Azioni"
+
+#: /View/Areas/add.ctp:15 /View/Areas/edit.ctp:17 /View/Areas/view.ctp:21
+msgid "List Areas"
+msgstr "Lista delle Aree"
+
+#: /View/Areas/add.ctp:16 /View/Areas/edit.ctp:18 /View/Areas/index.ctp:43
+#: /View/Areas/view.ctp:22 /View/BiomassTypes/add.ctp:16
+#: /View/BiomassTypes/edit.ctp:18 /View/BiomassTypes/index.ctp:43
+#: /View/BiomassTypes/view.ctp:22 /View/Chippers/add.ctp:16
+#: /View/Chippers/edit.ctp:18 /View/Chippers/index.ctp:43
+#: /View/Chippers/view.ctp:22 /View/Crate1s/add.ctp:17
+#: /View/Crate1s/edit.ctp:19 /View/Crate1s/index.ctp:44
+#: /View/Crate1s/view.ctp:23 /View/Crate2s/add.ctp:17
+#: /View/Crate2s/edit.ctp:19 /View/Crate2s/index.ctp:44
+#: /View/Crate2s/view.ctp:23 /View/DestinationStacks/add.ctp:16
+#: /View/DestinationStacks/edit.ctp:18 /View/DestinationStacks/index.ctp:43
+#: /View/DestinationStacks/view.ctp:22 /View/ForestStack1s/add.ctp:17
+#: /View/ForestStack1s/edit.ctp:19 /View/ForestStack1s/index.ctp:44
+#: /View/ForestStack1s/view.ctp:23 /View/ForestStack2s/add.ctp:17
+#: /View/ForestStack2s/edit.ctp:19 /View/ForestStack2s/index.ctp:44
+#: /View/ForestStack2s/view.ctp:23 /View/Groups/add.ctp:17
+#: /View/Groups/edit.ctp:20 /View/Groups/index.ctp:48 /View/Groups/view.ctp:34
+#: /View/LandParcels/add.ctp:19 /View/LandParcels/edit.ctp:21
+#: /View/LandParcels/index.ctp:49 /View/LandParcels/view.ctp:29
+#: /View/Lots/add.ctp:18 /View/Lots/edit.ctp:20 /View/Lots/index.ctp:48
+#: /View/Lots/view.ctp:28 /View/Materials/add.ctp:16
+#: /View/Materials/edit.ctp:18 /View/Materials/index.ctp:43
+#: /View/Materials/view.ctp:22 /View/Places/add.ctp:18
+#: /View/Places/edit.ctp:20 /View/Places/index.ctp:48 /View/Places/view.ctp:28
+#: /View/Sheets/add.ctp:19 /View/Sheets/edit.ctp:21 /View/Sheets/index.ctp:49
+#: /View/Sheets/view.ctp:29 /View/Sources/add.ctp:16 /View/Sources/edit.ctp:18
+#: /View/Sources/index.ctp:43 /View/Sources/view.ctp:22
+#: /View/Suppliers/add.ctp:21 /View/Suppliers/edit.ctp:23
+#: /View/Suppliers/index.ctp:55 /View/Suppliers/view.ctp:47
+#: /View/Towns/add.ctp:19 /View/Towns/edit.ctp:21 /View/Towns/index.ctp:46
+#: /View/Towns/view.ctp:25 /View/Tractors/add.ctp:19
+#: /View/Tractors/edit.ctp:20 /View/Tractors/index.ctp:48
+#: /View/Tractors/view.ctp:28 /View/Trailers/add.ctp:18
+#: /View/Trailers/edit.ctp:20 /View/Trailers/index.ctp:48
+#: /View/Trailers/view.ctp:28 /View/Users/edit.ctp:28 /View/Users/index.ctp:65
+#: /View/Users/view.ctp:84 /View/Weights/add.ctp:77 /View/Weights/edit.ctp:106
+#: /View/Weights/index.ctp:162 /View/Weights/view.ctp:210
+msgid "Home"
+msgstr "Home"
+
+#: /View/Areas/edit.ctp:4 /View/Areas/view.ctp:19
+msgid "Edit Area"
+msgstr "Modifica Area"
+
+#: /View/Areas/edit.ctp:16 /View/Areas/index.ctp:19
+#: /View/BiomassTypes/edit.ctp:16 /View/BiomassTypes/index.ctp:19
+#: /View/Chippers/edit.ctp:16 /View/Chippers/index.ctp:19
+#: /View/Crate1s/edit.ctp:16 /View/Crate1s/index.ctp:19
+#: /View/Crate2s/edit.ctp:16 /View/Crate2s/index.ctp:19
+#: /View/DestinationStacks/edit.ctp:16 /View/DestinationStacks/index.ctp:19
+#: /View/ForestStack1s/edit.ctp:16 /View/ForestStack1s/index.ctp:19
+#: /View/ForestStack2s/edit.ctp:16 /View/ForestStack2s/index.ctp:19
+#: /View/Groups/edit.ctp:16 /View/Groups/index.ctp:23
+#: /View/LandParcels/edit.ctp:17 /View/LandParcels/index.ctp:23
+#: /View/Lots/edit.ctp:17 /View/Lots/index.ctp:23 /View/Materials/edit.ctp:16
+#: /View/Materials/index.ctp:19 /View/Places/edit.ctp:17
+#: /View/Places/index.ctp:23 /View/Sheets/edit.ctp:17
+#: /View/Sheets/index.ctp:23 /View/Sheets/view.ctp:50
+#: /View/Sources/edit.ctp:16 /View/Sources/index.ctp:19
+#: /View/Suppliers/edit.ctp:21 /View/Suppliers/index.ctp:29
+#: /View/Suppliers/view.ctp:68;99 /View/Towns/edit.ctp:16
+#: /View/Towns/index.ctp:19 /View/Towns/view.ctp:46;77;108
+#: /View/TownsPlaces/edit.ctp:17 /View/TownsPlaces/index.ctp:23
+#: /View/Tractors/edit.ctp:17 /View/Tractors/index.ctp:23
+#: /View/Trailers/edit.ctp:17 /View/Trailers/index.ctp:23
+#: /View/Users/edit.ctp:26 /View/Weights/edit.ctp:104
+#: /View/Weights/index.ctp:136 /View/WeightsMaterials/edit.ctp:17
+#: /View/WeightsMaterials/index.ctp:25
+msgid "Delete"
+msgstr "Cancella"
+
+#: /View/Areas/edit.ctp:16 /View/Areas/index.ctp:19 /View/Areas/view.ctp:20
+#: /View/BiomassTypes/edit.ctp:16 /View/BiomassTypes/index.ctp:19
+#: /View/BiomassTypes/view.ctp:20 /View/Chippers/edit.ctp:16
+#: /View/Chippers/index.ctp:19 /View/Chippers/view.ctp:20
+#: /View/Crate1s/edit.ctp:16 /View/Crate1s/index.ctp:19
+#: /View/Crate1s/view.ctp:20 /View/Crate2s/edit.ctp:16
+#: /View/Crate2s/index.ctp:19 /View/Crate2s/view.ctp:20
+#: /View/DestinationStacks/edit.ctp:16 /View/DestinationStacks/index.ctp:19
+#: /View/DestinationStacks/view.ctp:20 /View/ForestStack1s/edit.ctp:16
+#: /View/ForestStack1s/index.ctp:19 /View/ForestStack1s/view.ctp:20
+#: /View/ForestStack2s/edit.ctp:16 /View/ForestStack2s/index.ctp:19
+#: /View/ForestStack2s/view.ctp:20 /View/Groups/edit.ctp:16
+#: /View/Groups/index.ctp:23 /View/Groups/view.ctp:30
+#: /View/LandParcels/edit.ctp:17 /View/LandParcels/index.ctp:23
+#: /View/LandParcels/view.ctp:25 /View/Lots/edit.ctp:17
+#: /View/Lots/index.ctp:23 /View/Lots/view.ctp:25 /View/Materials/edit.ctp:16
+#: /View/Materials/index.ctp:19 /View/Materials/view.ctp:20
+#: /View/Places/edit.ctp:17 /View/Places/index.ctp:23 /View/Places/view.ctp:25
+#: /View/Sheets/edit.ctp:17 /View/Sheets/index.ctp:23
+#: /View/Sheets/view.ctp:25;50 /View/Sources/edit.ctp:16
+#: /View/Sources/index.ctp:19 /View/Sources/view.ctp:20
+#: /View/Suppliers/edit.ctp:21 /View/Suppliers/index.ctp:29
+#: /View/Suppliers/view.ctp:45;68;99 /View/Towns/edit.ctp:16
+#: /View/Towns/index.ctp:19 /View/Towns/view.ctp:20;46;77;108
+#: /View/TownsPlaces/edit.ctp:17 /View/TownsPlaces/index.ctp:23
+#: /View/TownsPlaces/view.ctp:25 /View/Tractors/edit.ctp:17
+#: /View/Tractors/index.ctp:23 /View/Tractors/view.ctp:25
+#: /View/Trailers/edit.ctp:17 /View/Trailers/index.ctp:23
+#: /View/Trailers/view.ctp:25 /View/Users/edit.ctp:26 /View/Users/view.ctp:81
+#: /View/Weights/edit.ctp:104 /View/Weights/index.ctp:136
+#: /View/Weights/view.ctp:208 /View/WeightsMaterials/edit.ctp:17
+#: /View/WeightsMaterials/index.ctp:25 /View/WeightsMaterials/view.ctp:25
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sei sicuro di voler cancellare # %s?"
+
+#: /View/Areas/index.ctp:2 /View/Pages/home.ctp:26
+msgid "Areas"
+msgstr "Aree"
+
+#: /View/Areas/index.ctp:17 /View/BiomassTypes/index.ctp:17
+#: /View/Chippers/index.ctp:17 /View/Crate1s/index.ctp:17
+#: /View/Crate2s/index.ctp:17 /View/DestinationStacks/index.ctp:17
+#: /View/ForestStack1s/index.ctp:17 /View/ForestStack2s/index.ctp:17
+#: /View/Groups/index.ctp:21 /View/LandParcels/index.ctp:21
+#: /View/Lots/index.ctp:21 /View/Materials/index.ctp:17
+#: /View/Places/index.ctp:21 /View/Sheets/index.ctp:21
+#: /View/Sheets/view.ctp:48 /View/Sources/index.ctp:17
+#: /View/Suppliers/index.ctp:27 /View/Suppliers/view.ctp:66;97
+#: /View/Towns/index.ctp:17 /View/Towns/view.ctp:44;75;106
+#: /View/TownsPlaces/index.ctp:21 /View/Tractors/index.ctp:21
+#: /View/Trailers/index.ctp:21 /View/Users/index.ctp:39
+#: /View/Users/search_user.ctp:19 /View/Weights/index.ctp:134
+#: /View/WeightsMaterials/index.ctp:23
+msgid "View"
+msgstr "Visualizza"
+
+#: /View/Areas/index.ctp:18 /View/BiomassTypes/index.ctp:18
+#: /View/Chippers/index.ctp:18 /View/Crate1s/index.ctp:18
+#: /View/Crate2s/index.ctp:18 /View/DestinationStacks/index.ctp:18
+#: /View/ForestStack1s/index.ctp:18 /View/ForestStack2s/index.ctp:18
+#: /View/Groups/index.ctp:22 /View/LandParcels/index.ctp:22
+#: /View/Lots/index.ctp:22 /View/Materials/index.ctp:18
+#: /View/Places/index.ctp:22 /View/Sheets/index.ctp:22
+#: /View/Sheets/view.ctp:49 /View/Sources/index.ctp:18
+#: /View/Suppliers/index.ctp:28 /View/Suppliers/view.ctp:67;98
+#: /View/Towns/index.ctp:18 /View/Towns/view.ctp:45;76;107
+#: /View/TownsPlaces/index.ctp:22 /View/Tractors/index.ctp:22
+#: /View/Trailers/index.ctp:22 /View/Users/index.ctp:40
+#: /View/Users/search_user.ctp:20 /View/Weights/index.ctp:135
+#: /View/WeightsMaterials/index.ctp:24
+msgid "Edit"
+msgstr "Modifica"
+
+#: /View/Areas/index.ctp:28 /View/BiomassTypes/index.ctp:28
+#: /View/Chippers/index.ctp:28 /View/Crate1s/index.ctp:28
+#: /View/Crate2s/index.ctp:28 /View/DestinationStacks/index.ctp:28
+#: /View/ForestStack1s/index.ctp:28 /View/ForestStack2s/index.ctp:28
+#: /View/Groups/index.ctp:32 /View/LandParcels/index.ctp:32
+#: /View/Lots/index.ctp:32 /View/Materials/index.ctp:28
+#: /View/Places/index.ctp:32 /View/Sheets/index.ctp:32
+#: /View/Sources/index.ctp:28 /View/Suppliers/index.ctp:38
+#: /View/Towns/index.ctp:28 /View/TownsPlaces/index.ctp:32
+#: /View/Tractors/index.ctp:32 /View/Trailers/index.ctp:32
+#: /View/Users/index.ctp:50 /View/Weights/index.ctp:145
+#: /View/WeightsMaterials/index.ctp:34
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Pagina {:page} di {:pages}, visualizzati {:current} records di {:count} totali, dal record {:start}, al {:end}"
+
+#: /View/Areas/index.ctp:33 /View/BiomassTypes/index.ctp:33
+#: /View/Chippers/index.ctp:33 /View/Crate1s/index.ctp:33
+#: /View/Crate2s/index.ctp:33 /View/DestinationStacks/index.ctp:33
+#: /View/ForestStack1s/index.ctp:33 /View/ForestStack2s/index.ctp:33
+#: /View/Groups/index.ctp:37 /View/LandParcels/index.ctp:37
+#: /View/Lots/index.ctp:37 /View/Materials/index.ctp:33
+#: /View/Places/index.ctp:37 /View/Sheets/index.ctp:37
+#: /View/Sources/index.ctp:33 /View/Suppliers/index.ctp:43
+#: /View/Towns/index.ctp:33 /View/TownsPlaces/index.ctp:37
+#: /View/Tractors/index.ctp:37 /View/Trailers/index.ctp:37
+#: /View/Users/index.ctp:55 /View/Weights/index.ctp:150
+#: /View/WeightsMaterials/index.ctp:39
+msgid "previous"
+msgstr "precedente"
+
+#: /View/Areas/index.ctp:35 /View/BiomassTypes/index.ctp:35
+#: /View/Chippers/index.ctp:35 /View/Crate1s/index.ctp:35
+#: /View/Crate2s/index.ctp:35 /View/DestinationStacks/index.ctp:35
+#: /View/ForestStack1s/index.ctp:35 /View/ForestStack2s/index.ctp:35
+#: /View/Groups/index.ctp:39 /View/LandParcels/index.ctp:39
+#: /View/Lots/index.ctp:39 /View/Materials/index.ctp:35
+#: /View/Places/index.ctp:39 /View/Sheets/index.ctp:39
+#: /View/Sources/index.ctp:35 /View/Suppliers/index.ctp:45
+#: /View/Towns/index.ctp:35 /View/TownsPlaces/index.ctp:39
+#: /View/Tractors/index.ctp:39 /View/Trailers/index.ctp:39
+#: /View/Users/index.ctp:57 /View/Weights/index.ctp:152
+#: /View/WeightsMaterials/index.ctp:41
+msgid "next"
+msgstr "successivo"
+
+#: /View/Areas/index.ctp:42
+msgid "New Area"
+msgstr "Nuova Area"
+
+#: /View/Areas/view.ctp:2 /View/Weights/view.ctp:182
+msgid "Area"
+msgstr "Area"
+
+#: /View/Areas/view.ctp:4 /View/BiomassTypes/view.ctp:4
+#: /View/Chippers/view.ctp:4 /View/Crate1s/view.ctp:4 /View/Crate2s/view.ctp:4
+#: /View/DestinationStacks/view.ctp:4 /View/ForestStack1s/view.ctp:4
+#: /View/ForestStack2s/view.ctp:4 /View/Groups/view.ctp:4
+#: /View/LandParcels/view.ctp:4 /View/Lots/view.ctp:4
+#: /View/Materials/view.ctp:4 /View/Places/view.ctp:4
+#: /View/Sheets/view.ctp:4;37 /View/Sources/view.ctp:4
+#: /View/Suppliers/view.ctp:4;55;86 /View/Towns/view.ctp:4;33;64;95
+#: /View/TownsPlaces/view.ctp:4 /View/Tractors/view.ctp:4
+#: /View/Trailers/view.ctp:4 /View/Users/view.ctp:4 /View/Weights/view.ctp:4
+#: /View/WeightsMaterials/view.ctp:4
+msgid "Id"
+msgstr "Id"
+
+#: /View/Areas/view.ctp:9 /View/BiomassTypes/view.ctp:9
+#: /View/Chippers/view.ctp:9 /View/DestinationStacks/view.ctp:9
+#: /View/ForestStack1s/view.ctp:9 /View/ForestStack2s/view.ctp:9
+#: /View/Groups/view.ctp:9 /View/LandParcels/view.ctp:9 /View/Lots/view.ctp:9
+#: /View/Materials/view.ctp:9 /View/Places/view.ctp:9
+#: /View/Sheets/view.ctp:9;38 /View/Sources/view.ctp:9
+#: /View/Suppliers/view.ctp:9 /View/Towns/view.ctp:9;34;65;96
+msgid "Name"
+msgstr "Nome"
+
+#: /View/Areas/view.ctp:20
+msgid "Delete Area"
+msgstr "Elimina Area"
+
+#: /View/BiomassTypes/add.ctp:4
+msgid "Add Biomass Type"
+msgstr "Aggiungi Tipo di Biomassa"
+
+#: /View/BiomassTypes/add.ctp:15 /View/BiomassTypes/edit.ctp:17
+#: /View/BiomassTypes/view.ctp:21
+msgid "List Biomass Types"
+msgstr "Lista dei Tipi di Biomassa"
+
+#: /View/BiomassTypes/edit.ctp:4 /View/BiomassTypes/view.ctp:19
+msgid "Edit Biomass Type"
+msgstr "Modifica Tipo di Biomassa"
+
+#: /View/BiomassTypes/index.ctp:2 /View/Pages/home.ctp:20
+msgid "Biomass Types"
+msgstr "Tipi di Biomassa"
+
+#: /View/BiomassTypes/index.ctp:42
+msgid "New Biomass Type"
+msgstr "Nuovo Tipo di Biomassa"
+
+#: /View/BiomassTypes/view.ctp:2 /View/Weights/view.ctp:94
+msgid "Biomass Type"
+msgstr "Tipo di Biomassa"
+
+#: /View/BiomassTypes/view.ctp:20
+msgid "Delete Biomass Type"
+msgstr "Elimina Tipo di Biomassa"
+
+#: /View/Chippers/add.ctp:4
+msgid "Add Chipper"
+msgstr "Aggiungi Cippatrice"
+
+#: /View/Chippers/add.ctp:15 /View/Chippers/edit.ctp:17
+#: /View/Chippers/view.ctp:21
+msgid "List Chippers"
+msgstr "Lista delle Cippatrici"
+
+#: /View/Chippers/edit.ctp:4 /View/Chippers/view.ctp:19
+msgid "Edit Chipper"
+msgstr "Modifica Cippatrice"
+
+#: /View/Chippers/index.ctp:2 /View/Pages/home.ctp:22
+msgid "Chippers"
+msgstr "Cippatrici"
+
+#: /View/Chippers/index.ctp:42
+msgid "New Chipper"
+msgstr "Nuova Cippatrice"
+
+#: /View/Chippers/view.ctp:2 /View/Weights/view.ctp:107
+msgid "Chipper"
+msgstr "Cippatrice"
+
+#: /View/Chippers/view.ctp:20
+msgid "Delete Chipper"
+msgstr "Elimina Cippatrice"
+
+#: /View/Crate1s/add.ctp:4
+msgid "Add Crate 1"
+msgstr "Aggiungi Cassa (1)"
+
+#: /View/Crate1s/add.ctp:15 /View/Crate1s/edit.ctp:17
+#: /View/Crate1s/view.ctp:21 /View/Crate2s/add.ctp:16
+#: /View/Crate2s/edit.ctp:18 /View/Crate2s/index.ctp:43
+#: /View/Crate2s/view.ctp:22
+msgid "List Crates 1"
+msgstr "Lista delle Casse (1)"
+
+#: /View/Crate1s/add.ctp:16 /View/Crate1s/edit.ctp:18
+#: /View/Crate1s/index.ctp:43 /View/Crate1s/view.ctp:22
+#: /View/Crate2s/add.ctp:15 /View/Crate2s/edit.ctp:17
+#: /View/Crate2s/view.ctp:21
+msgid "List Crates 2"
+msgstr "Lista delle Casse (2)"
+
+#: /View/Crate1s/edit.ctp:4
+msgid "Edit Crate 1"
+msgstr "Modifica Cassa (1)"
+
+#: /View/Crate1s/index.ctp:2
+msgid "Crates 1"
+msgstr "Casse (1)"
+
+#: /View/Crate1s/index.ctp:42 /View/Crate2s/index.ctp:42
+msgid "New Crate"
+msgstr "Nuova Cassa"
+
+#: /View/Crate1s/view.ctp:2 /View/Weights/view.ctp:112
+msgid "Crate 1"
+msgstr "Cassa (1)"
+
+#: /View/Crate1s/view.ctp:9 /View/Crate2s/view.ctp:9
+msgid "Number"
+msgstr "Numero"
+
+#: /View/Crate1s/view.ctp:19 /View/Crate2s/view.ctp:19
+msgid "Edit Crate"
+msgstr "Modifica Cassa"
+
+#: /View/Crate1s/view.ctp:20 /View/Crate2s/view.ctp:20
+msgid "Delete Crate"
+msgstr "Elimina Cassa"
+
+#: /View/Crate2s/add.ctp:4
+msgid "Add Crate 2"
+msgstr "Aggiungi Cassa (2)"
+
+#: /View/Crate2s/edit.ctp:4
+msgid "Edit Crate 2"
+msgstr "Modifica Cassa (2)"
+
+#: /View/Crate2s/index.ctp:2
+msgid "Crates 2"
+msgstr "Casse (2)"
+
+#: /View/Crate2s/view.ctp:2 /View/Weights/view.ctp:117
+msgid "Crate 2"
+msgstr "Cassa (2)"
+
+#: /View/DestinationStacks/add.ctp:4
+msgid "Add Destination Stack"
+msgstr "Aggiungi Catasta di Destinazione"
+
+#: /View/DestinationStacks/add.ctp:15 /View/DestinationStacks/edit.ctp:17
+#: /View/DestinationStacks/view.ctp:21
+msgid "List Destination Stacks"
+msgstr "Lista delle Cataste di Destinazione"
+
+#: /View/DestinationStacks/edit.ctp:4 /View/DestinationStacks/view.ctp:19
+msgid "Edit Destination Stack"
+msgstr "Modifica Catasta di Destinazione"
+
+#: /View/DestinationStacks/index.ctp:2 /View/Pages/home.ctp:24
+msgid "Destination Stacks"
+msgstr "Cataste di Destinazione"
+
+#: /View/DestinationStacks/index.ctp:42
+msgid "New Destination Stack"
+msgstr "Nuova Catasta di Destinazione"
+
+#: /View/DestinationStacks/view.ctp:2 /View/Weights/view.ctp:122
+msgid "Destination Stack"
+msgstr "Catasta di Destinazione"
+
+#: /View/DestinationStacks/view.ctp:20
+msgid "Delete Destination Stack"
+msgstr "Elimina Catasta di Destinazione"
+
+#: /View/ForestStack1s/add.ctp:4
+msgid "Add Forest Stack 1"
+msgstr "Aggiungi Catasta Boschiva (1)"
+
+#: /View/ForestStack1s/add.ctp:15 /View/ForestStack1s/edit.ctp:17
+#: /View/ForestStack1s/view.ctp:21 /View/ForestStack2s/add.ctp:16
+#: /View/ForestStack2s/edit.ctp:18 /View/ForestStack2s/index.ctp:43
+#: /View/ForestStack2s/view.ctp:22
+msgid "List Forest Stacks 1"
+msgstr "Lista delel Cataste Boschive (1)"
+
+#: /View/ForestStack1s/add.ctp:16 /View/ForestStack1s/edit.ctp:18
+#: /View/ForestStack1s/index.ctp:43 /View/ForestStack1s/view.ctp:22
+#: /View/ForestStack2s/add.ctp:15 /View/ForestStack2s/edit.ctp:17
+#: /View/ForestStack2s/view.ctp:21
+msgid "List Forest Stacks 2"
+msgstr "Lista delle Cataste Boschive (2)"
+
+#: /View/ForestStack1s/edit.ctp:4
+msgid "Edit Forest Stack 1"
+msgstr "Modifica Catasta Boschiva (1)"
+
+#: /View/ForestStack1s/index.ctp:2
+msgid "Forest Stacks 1"
+msgstr "Cataste Boschive (1)"
+
+#: /View/ForestStack1s/index.ctp:42 /View/ForestStack2s/index.ctp:42
+msgid "New Forest Stack"
+msgstr "Nuova Catasta Boschiva"
+
+#: /View/ForestStack1s/view.ctp:2 /View/Weights/view.ctp:84
+msgid "Forest Stack 1"
+msgstr "Catasta Boschiva (1)"
+
+#: /View/ForestStack1s/view.ctp:19
+msgid "Edit Forest Stack"
+msgstr "Modifica Catasta Boschiva"
+
+#: /View/ForestStack1s/view.ctp:20
+msgid "Delete Forest Stack"
+msgstr "Elimina Catasta Boschiva"
+
+#: /View/ForestStack2s/add.ctp:4
+msgid "Add Forest Stack 2"
+msgstr "Aggiungi Catasta Boschiva (2)"
+
+#: /View/ForestStack2s/edit.ctp:4
+msgid "Edit Forest Stack 2"
+msgstr "Modifica Catasta Boschiva (2)"
+
+#: /View/ForestStack2s/index.ctp:2
+msgid "Forest Stacks 2"
+msgstr "Cataste Boschive (2)"
+
+#: /View/ForestStack2s/view.ctp:2 /View/Weights/view.ctp:89
+msgid "Forest Stack 2"
+msgstr "Catasta Boschiva (2)"
+
+#: /View/ForestStack2s/view.ctp:19
+msgid "Edit Forest"
+msgstr "Modifica Catasta Boschiva"
+
+#: /View/ForestStack2s/view.ctp:20
+msgid "Delete Forest"
+msgstr "Elimina Catasta Boschiva"
+
+#: /View/Groups/add.ctp:4
+msgid "Add Group"
+msgstr "Aggiungi Gruppo"
+
+#: /View/Groups/add.ctp:15 /View/Groups/edit.ctp:17 /View/Groups/view.ctp:31
+#: /View/Users/add.ctp:28 /View/Users/index.ctp:64 /View/Users/view.ctp:83
+msgid "List Groups"
+msgstr "Lista dei Gruppi"
+
+#: /View/Groups/add.ctp:16 /View/Groups/edit.ctp:18 /View/Groups/index.ctp:47
+#: /View/Groups/view.ctp:32 /View/Users/add.ctp:27 /View/Users/edit.ctp:27
+#: /View/Users/view.ctp:82
+msgid "List Users"
+msgstr "Lista degli Utenti"
+
+#: /View/Groups/add.ctp:18 /View/Groups/edit.ctp:19 /View/Groups/index.ctp:49
+#: /View/Groups/view.ctp:33
+msgid "New User"
+msgstr "Nuovo Utente"
+
+#: /View/Groups/edit.ctp:4 /View/Groups/view.ctp:29
+msgid "Edit Group"
+msgstr "Modifica Gruppo"
+
+#: /View/Groups/index.ctp:2
+msgid "Groups"
+msgstr "Gruppi"
+
+#: /View/Groups/index.ctp:46 /View/Users/add.ctp:29
+msgid "New Group"
+msgstr "Nuovo Gruppo"
+
+#: /View/Groups/view.ctp:2
+msgid "Group"
+msgstr "Gruppo"
+
+#: /View/Groups/view.ctp:14 /View/Users/view.ctp:65 /View/Weights/view.ctp:192
+msgid "Created"
+msgstr "Data di Creazione"
+
+#: /View/Groups/view.ctp:19 /View/Users/view.ctp:70 /View/Weights/view.ctp:197
+msgid "Modified"
+msgstr "Ultima Modifica"
+
+#: /View/Groups/view.ctp:30
+msgid "Delete Group"
+msgstr "Elimina Gruppo"
+
+#: /View/LandParcels/add.ctp:4
+msgid "Add Land Parcel"
+msgstr "Aggiungi Particella Catastale"
+
+#: /View/LandParcels/add.ctp:16 /View/LandParcels/edit.ctp:18
+#: /View/LandParcels/view.ctp:26 /View/Sheets/add.ctp:18
+#: /View/Sheets/edit.ctp:20 /View/Sheets/index.ctp:48 /View/Sheets/view.ctp:28
+msgid "List Land Parcels"
+msgstr "Lista delle Particelle Catastali"
+
+#: /View/LandParcels/add.ctp:17 /View/LandParcels/edit.ctp:19
+#: /View/LandParcels/index.ctp:47 /View/LandParcels/view.ctp:27
+#: /View/Sheets/add.ctp:16 /View/Sheets/edit.ctp:18 /View/Sheets/view.ctp:26
+#: /View/Towns/add.ctp:18 /View/Towns/edit.ctp:20 /View/Towns/index.ctp:45
+#: /View/Towns/view.ctp:24
+msgid "List Sheets"
+msgstr "Lista dei Fogli Catastali"
+
+#: /View/LandParcels/add.ctp:18 /View/LandParcels/edit.ctp:20
+#: /View/LandParcels/index.ctp:48 /View/LandParcels/view.ctp:28
+#: /View/Lots/add.ctp:17 /View/Lots/edit.ctp:19 /View/Lots/index.ctp:47
+#: /View/Lots/view.ctp:27 /View/Places/add.ctp:17 /View/Places/edit.ctp:19
+#: /View/Places/index.ctp:47 /View/Places/view.ctp:27 /View/Sheets/add.ctp:17
+#: /View/Sheets/edit.ctp:19 /View/Sheets/index.ctp:47 /View/Sheets/view.ctp:27
+#: /View/Towns/add.ctp:15 /View/Towns/edit.ctp:17 /View/Towns/view.ctp:21
+#: /View/TownsPlaces/add.ctp:17 /View/TownsPlaces/edit.ctp:19
+#: /View/TownsPlaces/index.ctp:47 /View/TownsPlaces/view.ctp:28
+msgid "List Towns"
+msgstr "Lista dei Comuni"
+
+#: /View/LandParcels/edit.ctp:4 /View/LandParcels/view.ctp:24
+msgid "Edit Land Parcel"
+msgstr "Modifica Particelle Catastali"
+
+#: /View/LandParcels/index.ctp:2 /View/Pages/home.ctp:18
+msgid "Land Parcels"
+msgstr "Particelle Catastali"
+
+#: /View/LandParcels/index.ctp:46 /View/Sheets/view.ctp:59
+msgid "New Land Parcel"
+msgstr "Nuova Particella Catastale"
+
+#: /View/LandParcels/view.ctp:2 /View/Weights/view.ctp:79
+msgid "Land Parcel"
+msgstr "Particella Catastale"
+
+#: /View/LandParcels/view.ctp:14 /View/Sheets/view.ctp:2
+#: /View/Weights/view.ctp:74
+msgid "Sheet"
+msgstr "Foglio Catastale"
+
+#: /View/LandParcels/view.ctp:25
+msgid "Delete Land Parcel"
+msgstr "Elimina Particella Catastale"
+
+#: /View/Lots/add.ctp:4
+msgid "Add Lot"
+msgstr "Aggiungi Lotto"
+
+#: /View/Lots/add.ctp:16 /View/Lots/edit.ctp:18 /View/Lots/view.ctp:26
+#: /View/Towns/add.ctp:16 /View/Towns/edit.ctp:18 /View/Towns/index.ctp:43
+#: /View/Towns/view.ctp:22
+msgid "List Lots"
+msgstr "Lista dei Lotti"
+
+#: /View/Lots/edit.ctp:4 /View/Lots/view.ctp:24
+msgid "Edit Lot"
+msgstr "Modifica Lotti"
+
+#: /View/Lots/index.ctp:2 /View/Pages/home.ctp:16
+msgid "Lots"
+msgstr "Lotti"
+
+#: /View/Lots/index.ctp:46 /View/Towns/view.ctp:55
+msgid "New Lot"
+msgstr "Nuovo Lotto"
+
+#: /View/Lots/view.ctp:2 /View/Weights/view.ctp:69
+msgid "Lot"
+msgstr "Lotto"
+
+#: /View/Lots/view.ctp:14 /View/Places/view.ctp:14 /View/Sheets/view.ctp:14
+#: /View/Suppliers/view.ctp:14 /View/Towns/view.ctp:2
+#: /View/TownsPlaces/view.ctp:9 /View/Weights/view.ctp:59
+msgid "Town"
+msgstr "Comune"
+
+#: /View/Lots/view.ctp:25
+msgid "Delete Lot"
+msgstr "Elimina Lotto"
+
+#: /View/Materials/add.ctp:4
+msgid "Add Material"
+msgstr "Aggiungi Materiale"
+
+#: /View/Materials/add.ctp:15 /View/Materials/edit.ctp:17
+#: /View/Materials/view.ctp:21 /View/WeightsMaterials/add.ctp:19
+#: /View/WeightsMaterials/edit.ctp:21 /View/WeightsMaterials/index.ctp:51
+#: /View/WeightsMaterials/view.ctp:30
+msgid "List Materials"
+msgstr "Lista dei Materiali"
+
+#: /View/Materials/edit.ctp:4 /View/Materials/view.ctp:19
+msgid "Edit Material"
+msgstr "Modifica Materiale"
+
+#: /View/Materials/index.ctp:2 /View/Pages/home.ctp:21
+msgid "Materials"
+msgstr "Materiali"
+
+#: /View/Materials/index.ctp:42 /View/WeightsMaterials/add.ctp:20
+#: /View/WeightsMaterials/edit.ctp:22 /View/WeightsMaterials/index.ctp:52
+#: /View/WeightsMaterials/view.ctp:31
+msgid "New Material"
+msgstr "Nuovo Materiale"
+
+#: /View/Materials/view.ctp:2 /View/Weights/view.ctp:99
+#: /View/WeightsMaterials/view.ctp:14
+msgid "Material"
+msgstr "Materiale"
+
+#: /View/Materials/view.ctp:20
+msgid "Delete Material"
+msgstr "Elimina Materiale"
+
+#: /View/Pages/home.ctp:4 /View/Weights/index.ctp:2
+msgid "Weights"
+msgstr "Pesate"
+
+#: /View/Pages/home.ctp:5
+msgid "Logout"
+msgstr "Esci"
+
+#: /View/Pages/home.ctp:9
+msgid "Actions (Settings)"
+msgstr "Impostazioni"
+
+#: /View/Pages/home.ctp:11 /View/Suppliers/index.ctp:2
+msgid "Suppliers"
+msgstr "Fornitori"
+
+#: /View/Pages/home.ctp:12 /View/Tractors/index.ctp:2
+msgid "Tractors"
+msgstr "Motrici"
+
+#: /View/Pages/home.ctp:13 /View/Trailers/index.ctp:2
+msgid "Trailers"
+msgstr "Rimorchi"
+
+#: /View/Pages/home.ctp:14 /View/Towns/index.ctp:2
+msgid "Towns"
+msgstr "Comuni"
+
+#: /View/Pages/home.ctp:15 /View/Places/index.ctp:2
+msgid "Places"
+msgstr "Toponimi"
+
+#: /View/Pages/home.ctp:17 /View/Sheets/index.ctp:2
+msgid "Sheets"
+msgstr "Fogli Catastali"
+
+#: /View/Pages/home.ctp:19
+msgid "Forest Stacks"
+msgstr "Cataste Boschive"
+
+#: /View/Pages/home.ctp:23
+msgid "Crates"
+msgstr "Casse"
+
+#: /View/Pages/home.ctp:25 /View/Sources/index.ctp:2
+msgid "Sources"
+msgstr "Sorgenti"
+
+#: /View/Places/add.ctp:4
+msgid "Add Place"
+msgstr "Aggiungi Toponimo"
+
+#: /View/Places/add.ctp:16 /View/Places/edit.ctp:18 /View/Places/view.ctp:26
+#: /View/Towns/add.ctp:17 /View/Towns/edit.ctp:19 /View/Towns/index.ctp:44
+#: /View/Towns/view.ctp:23
+msgid "List Places"
+msgstr "Lista Toponimi"
+
+#: /View/Places/edit.ctp:4 /View/Places/view.ctp:24
+msgid "Edit Place"
+msgstr "Modifica Toponimo"
+
+#: /View/Places/index.ctp:46 /View/Towns/view.ctp:86
+msgid "New Place"
+msgstr "Nuovo Toponimo"
+
+#: /View/Places/view.ctp:2 /View/Weights/view.ctp:64
+msgid "Place"
+msgstr "Toponimo"
+
+#: /View/Places/view.ctp:25
+msgid "Delete Place"
+msgstr "Elimina Toponimo"
+
+#: /View/Sheets/add.ctp:4
+msgid "Add Sheet"
+msgstr "Aggiungi Foglio Catastale"
+
+#: /View/Sheets/edit.ctp:4 /View/Sheets/view.ctp:24
+msgid "Edit Sheet"
+msgstr "Modifica Foglio Catastale"
+
+#: /View/Sheets/index.ctp:46 /View/Towns/view.ctp:117
+msgid "New Sheet"
+msgstr "Nuovo Foglio Catastale"
+
+#: /View/Sheets/view.ctp:25
+msgid "Delete Sheet"
+msgstr "Elimina Foglio Catastale"
+
+#: /View/Sheets/view.ctp:33
+msgid "Related Land Parcels"
+msgstr "Particelle Catastali Relative"
+
+#: /View/Sheets/view.ctp:39
+msgid "Sheet Id"
+msgstr "Foglio Catastale Id"
+
+#: /View/Sources/add.ctp:4
+msgid "Add Source"
+msgstr "Aggiungi Sorgente"
+
+#: /View/Sources/add.ctp:15 /View/Sources/edit.ctp:17
+#: /View/Sources/view.ctp:21
+msgid "List Sources"
+msgstr "Lista delle Sorgenti"
+
+#: /View/Sources/edit.ctp:4 /View/Sources/view.ctp:19
+msgid "Edit Source"
+msgstr "Modifica Sorgente"
+
+#: /View/Sources/index.ctp:42
+msgid "New Source"
+msgstr "Nuovo Sorgente"
+
+#: /View/Sources/view.ctp:2 /View/Weights/view.ctp:177
+msgid "Source"
+msgstr "Sorgente"
+
+#: /View/Sources/view.ctp:20
+msgid "Delete Source"
+msgstr "Elimina Sorgente"
+
+#: /View/Suppliers/add.ctp:4
+msgid "Add Supplier"
+msgstr "Aggiungi Fornitori"
+
+#: /View/Suppliers/add.ctp:20 /View/Suppliers/edit.ctp:22
+#: /View/Suppliers/view.ctp:46 /View/Tractors/add.ctp:18
+#: /View/Tractors/edit.ctp:19 /View/Tractors/index.ctp:47
+#: /View/Tractors/view.ctp:27 /View/Trailers/add.ctp:17
+#: /View/Trailers/edit.ctp:19 /View/Trailers/index.ctp:47
+#: /View/Trailers/view.ctp:27
+msgid "List Suppliers"
+msgstr "Lista dei Fornitori"
+
+#: /View/Suppliers/edit.ctp:4 /View/Suppliers/view.ctp:44
+msgid "Edit Supplier"
+msgstr "Modifica Fornitore"
+
+#: /View/Suppliers/index.ctp:52
+msgid "New Supplier"
+msgstr "Nuovo Fornitore"
+
+#: /View/Suppliers/index.ctp:53 /View/Tractors/add.ctp:17
+#: /View/Tractors/edit.ctp:18 /View/Tractors/view.ctp:26
+msgid "List Tractors"
+msgstr "Lista delle Motrici"
+
+#: /View/Suppliers/index.ctp:54 /View/Trailers/add.ctp:16
+#: /View/Trailers/edit.ctp:18 /View/Trailers/view.ctp:26
+msgid "List Trailers"
+msgstr "Lista dei Rimorchi"
+
+#: /View/Suppliers/view.ctp:2 /View/Tractors/view.ctp:14
+#: /View/Trailers/view.ctp:14 /View/Weights/view.ctp:44
+msgid "Supplier"
+msgstr "Fornitore"
+
+#: /View/Suppliers/view.ctp:19
+msgid "Address"
+msgstr "Indirizzo"
+
+#: /View/Suppliers/view.ctp:24 /View/Users/view.ctp:34
+msgid "Phone"
+msgstr "Telefono"
+
+#: /View/Suppliers/view.ctp:29
+msgid "Fax"
+msgstr "Fax"
+
+#: /View/Suppliers/view.ctp:34
+msgid "PI"
+msgstr "P.I."
+
+#: /View/Suppliers/view.ctp:45
+msgid "Delete Supplier"
+msgstr "Elimina Fornitore"
+
+#: /View/Suppliers/view.ctp:51
+msgid "Related Tractors"
+msgstr "Rimorchi Relativi"
+
+#: /View/Suppliers/view.ctp:56;87 /View/Tractors/view.ctp:9
+#: /View/Trailers/view.ctp:9
+msgid "Targa"
+msgstr "Targa"
+
+#: /View/Suppliers/view.ctp:57;88
+msgid "Supplier Id"
+msgstr "Fornitore Id"
+
+#: /View/Suppliers/view.ctp:77 /View/Tractors/index.ctp:46
+msgid "New Tractor"
+msgstr "Nuova Motrice"
+
+#: /View/Suppliers/view.ctp:82
+msgid "Related Trailers"
+msgstr "Rimorchi Relativi"
+
+#: /View/Suppliers/view.ctp:108 /View/Trailers/index.ctp:46
+msgid "New Trailer"
+msgstr "Nuovo Rimorchio"
+
+#: /View/Towns/add.ctp:4
+msgid "Add Town"
+msgstr "Aggiungi Comune"
+
+#: /View/Towns/edit.ctp:4 /View/Towns/view.ctp:19
+msgid "Edit Town"
+msgstr "Modifica Comune"
+
+#: /View/Towns/index.ctp:42 /View/TownsPlaces/add.ctp:18
+#: /View/TownsPlaces/edit.ctp:20 /View/TownsPlaces/index.ctp:48
+#: /View/TownsPlaces/view.ctp:29
+msgid "New Town"
+msgstr "Nuovo Comune"
+
+#: /View/Towns/view.ctp:20
+msgid "Delete Town"
+msgstr "Elimina Comune"
+
+#: /View/Towns/view.ctp:29
+msgid "Related Lots"
+msgstr "Lotti Relativi"
+
+#: /View/Towns/view.ctp:35;66;97
+msgid "Town Id"
+msgstr "Comune Id"
+
+#: /View/Towns/view.ctp:60
+msgid "Related Places"
+msgstr "Toponimi Relativi"
+
+#: /View/Towns/view.ctp:91
+msgid "Related Sheets"
+msgstr "Fogli Catastali Relativi"
+
+#: /View/TownsPlaces/add.ctp:4
+msgid "Add Towns Place"
+msgstr ""
+
+#: /View/TownsPlaces/add.ctp:16 /View/TownsPlaces/edit.ctp:18
+#: /View/TownsPlaces/view.ctp:26
+msgid "List Towns Places"
+msgstr ""
+
+#: /View/TownsPlaces/edit.ctp:4 /View/TownsPlaces/view.ctp:24
+msgid "Edit Towns Place"
+msgstr ""
+
+#: /View/TownsPlaces/index.ctp:2
+msgid "Towns Places"
+msgstr ""
+
+#: /View/TownsPlaces/index.ctp:46 /View/TownsPlaces/view.ctp:27
+msgid "New Towns Place"
+msgstr ""
+
+#: /View/TownsPlaces/view.ctp:2
+msgid "Towns Place"
+msgstr ""
+
+#: /View/TownsPlaces/view.ctp:14
+msgid "Place It"
+msgstr "Toponimo It"
+
+#: /View/TownsPlaces/view.ctp:25
+msgid "Delete Towns Place"
+msgstr ""
+
+#: /View/Tractors/add.ctp:4
+msgid "Add Tractor"
+msgstr "Aggiungi Motrice"
+
+#: /View/Tractors/edit.ctp:4 /View/Tractors/view.ctp:24
+msgid "Edit Tractor"
+msgstr "Modifica Motrice"
+
+#: /View/Tractors/view.ctp:2 /View/Weights/view.ctp:49
+msgid "Tractor"
+msgstr "Motrice"
+
+#: /View/Tractors/view.ctp:25
+msgid "Delete Tractor"
+msgstr "Elimina Motrice"
+
+#: /View/Trailers/add.ctp:4
+msgid "Add Trailer"
+msgstr "Aggiungi Rimorchio"
+
+#: /View/Trailers/edit.ctp:4 /View/Trailers/view.ctp:24
+msgid "Edit Trailer"
+msgstr "Modifica Rimorchio"
+
+#: /View/Trailers/view.ctp:2 /View/Weights/view.ctp:54
+msgid "Trailer"
+msgstr "Rimorchio"
+
+#: /View/Trailers/view.ctp:25
+msgid "Delete Trailer"
+msgstr "Elimina Rimorchio"
+
+#: /View/Users/add.ctp:4
+msgid "Add User"
+msgstr "Aggiungi Utente"
+
+#: /View/Users/add.ctp:30
+msgid "List Business Trips"
+msgstr "List Business Trips"
+
+#: /View/Users/add.ctp:31
+msgid "New Business Trip"
+msgstr "New Business Trip"
+
+#: /View/Users/add.ctp:32
+msgid "List Btgroups"
+msgstr "List Btgroups"
+
+#: /View/Users/add.ctp:33
+msgid "New Btgroup"
+msgstr "New Btgroup"
+
+#: /View/Users/edit.ctp:4 /View/Users/view.ctp:80
+msgid "Edit User"
+msgstr "Modifica Utente"
+
+#: /View/Users/index.ctp:2
+msgid "Users"
+msgstr "Utenti"
+
+#: /View/Users/index.ctp:68
+msgid "Set Filter"
+msgstr "Applica Filtro"
+
+#: /View/Users/view.ctp:2 /View/Weights/view.ctp:187
+msgid "User"
+msgstr "Utente"
+
+#: /View/Users/view.ctp:9
+msgid "First Name"
+msgstr "Nome"
+
+#: /View/Users/view.ctp:14
+msgid "Last Rname"
+msgstr "Cognome"
+
+#: /View/Users/view.ctp:19
+msgid "User Log Name"
+msgstr "Log Nome"
+
+#: /View/Users/view.ctp:24
+msgid "Username"
+msgstr "Nome Utente"
+
+#: /View/Users/view.ctp:29
+msgid "Email"
+msgstr "Email"
+
+#: /View/Users/view.ctp:39
+msgid "Department"
+msgstr "Dipartimento"
+
+#: /View/Users/view.ctp:44
+msgid "Company"
+msgstr "Compagnia"
+
+#: /View/Users/view.ctp:50
+msgid "City"
+msgstr "Città"
+
+#: /View/Users/view.ctp:55
+msgid "Office"
+msgstr "Ufficio"
+
+#: /View/Users/view.ctp:60
+msgid "ACL-Group"
+msgstr "ACL-Gruppo"
+
+#: /View/Users/view.ctp:81
+msgid "Delete User"
+msgstr "Elimina Utente"
+
+#: /View/Weights/add.ctp:4
+msgid "Add Weight"
+msgstr "Aggiungi Pesata"
+
+#: /View/Weights/add.ctp:76 /View/Weights/edit.ctp:105
+#: /View/Weights/view.ctp:209 /View/WeightsMaterials/add.ctp:17
+#: /View/WeightsMaterials/edit.ctp:19 /View/WeightsMaterials/index.ctp:49
+#: /View/WeightsMaterials/view.ctp:28
+msgid "List Weights"
+msgstr "Lista delle Pesate"
+
+#: /View/Weights/edit.ctp:4 /View/Weights/view.ctp:207
+msgid "Edit Weight"
+msgstr "Modifica Pesata"
+
+#: /View/Weights/index.ctp:161 /View/WeightsMaterials/add.ctp:18
+#: /View/WeightsMaterials/edit.ctp:20 /View/WeightsMaterials/index.ctp:50
+#: /View/WeightsMaterials/view.ctp:29
+msgid "New Weight"
+msgstr "Nuova Pesata"
+
+#: /View/Weights/view.ctp:2 /View/WeightsMaterials/view.ctp:9
+msgid "Weight"
+msgstr "Pesata"
+
+#: /View/Weights/view.ctp:9
+msgid "Waybill"
+msgstr "Bolla"
+
+#: /View/Weights/view.ctp:14
+msgid "DDT N"
+msgstr "DDT N° progressivo"
+
+#: /View/Weights/view.ctp:19
+msgid "DDT Mat"
+msgstr "DDT Matricola"
+
+#: /View/Weights/view.ctp:24
+msgid "Date"
+msgstr "Data"
+
+#: /View/Weights/view.ctp:29
+msgid "Month"
+msgstr "Mese"
+
+#: /View/Weights/view.ctp:34
+msgid "Week"
+msgstr "Settimana"
+
+#: /View/Weights/view.ctp:39
+msgid "Year"
+msgstr "Anno"
+
+#: /View/Weights/view.ctp:127;132
+msgid "Gross"
+msgstr "Lordo"
+
+#: /View/Weights/view.ctp:137
+msgid "Tare Tractor"
+msgstr "Tara Motrice"
+
+#: /View/Weights/view.ctp:142
+msgid "Tare Trailer"
+msgstr "Tara Rimorchio"
+
+#: /View/Weights/view.ctp:147
+msgid "Time In"
+msgstr "Entrata"
+
+#: /View/Weights/view.ctp:152
+msgid "Time Out"
+msgstr "Uscita"
+
+#: /View/Weights/view.ctp:157
+msgid "Wc"
+msgstr "Wc rielvata [%]"
+
+#: /View/Weights/view.ctp:162
+msgid "Wc Net"
+msgstr "Netto wc [45%]"
+
+#: /View/Weights/view.ctp:167
+msgid "Estimated Net"
+msgstr "Netto Stimato"
+
+#: /View/Weights/view.ctp:172
+msgid "Note"
+msgstr "Note"
+
+#: /View/Weights/view.ctp:208
+msgid "Delete Weight"
+msgstr "Elimina Pesata"
+
+#: /View/WeightsMaterials/add.ctp:4
+msgid "Add Weights Material"
+msgstr ""
+
+#: /View/WeightsMaterials/add.ctp:16 /View/WeightsMaterials/edit.ctp:18
+#: /View/WeightsMaterials/view.ctp:26
+msgid "List Weights Materials"
+msgstr ""
+
+#: /View/WeightsMaterials/edit.ctp:4 /View/WeightsMaterials/view.ctp:24
+msgid "Edit Weights Material"
+msgstr ""
+
+#: /View/WeightsMaterials/index.ctp:2
+msgid "Weights Materials"
+msgstr ""
+
+#: /View/WeightsMaterials/index.ctp:48 /View/WeightsMaterials/view.ctp:27
+msgid "New Weights Material"
+msgstr ""
+
+#: /View/WeightsMaterials/view.ctp:2
+msgid "Weights Material"
+msgstr ""
+
+#: /View/WeightsMaterials/view.ctp:25
+msgid "Delete Weights Material"
+msgstr ""
